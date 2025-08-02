@@ -1,6 +1,8 @@
 # Flipper_tools_for_iphone
 # 🍎 Apple Tools for Flipper (ATFf)
 p.s. это могло бы весить 320кг
+#in development
+#в разработке
 
 ## 🇷🇺 Русская версия
 
