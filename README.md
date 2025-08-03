@@ -1,4 +1,4 @@
-# Flipper_tools_for_iphone
+# Flipper_tools_for_iphone #Release XX.XX.2025 #Релиз ХХ.ХХ.2025
 # 🍎 Apple Tools for Flipper (ATFf)
 p.s. это могло бы весить 320кг
 #in development
