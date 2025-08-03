@@ -1,4 +1,4 @@
-# Apple Tools для Flipper Zero
+# Apple Tools для Flipper Zero #RELEASE XX.XX.2025
 
 Инструмент извлечения и анализа данных iPhone в реальном времени для Flipper Zero.
 
